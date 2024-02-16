@@ -1,4 +1,4 @@
-# TetrisJS
+# Tetra
 This is tetris made in JS  
 It has some cool features such as:  
 * brick editor
