@@ -7,7 +7,7 @@ It has some cool features such as:
 * animated game instructions
 * recursive gravity
 * ghost brick
-* moving with arrows
+* moving with arrows  
 You can even play it on your phone  
   
 I suggest you watch the "how to play" section before playing
